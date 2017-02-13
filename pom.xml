@@ -30,7 +30,7 @@
             <artifactId>slf4j-log4j12</artifactId>
             <version>1.7.21</version>
         </dependency>
-        
+
         <!-- Test dependencies -->
         <dependency>
             <groupId>junit</groupId>
@@ -76,7 +76,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>cz.malanius.MalaBota</mainClass>
+                            <mainClass>cz.malanius.malabota.MalaBota</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
