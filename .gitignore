@@ -1,2 +1,6 @@
 /target/
 *.log
+
+./nbactions*
+
+nbactions\.xml
